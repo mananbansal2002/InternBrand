@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "6498333f49164690d7427ebf"
+  },
+  "id": 1,
+  "brand":"/images/brand2.png",
+  "company": "Xapo Visuals",
+  "position": "Motion Graphics Designer",
+  "department": "IT services",
+  "duration": 6,
+  "experience": "Intermediate",
+  "stipend": "10,000-30,000",
+  "stipends": 30000,
+  "location": "noida",
+  "category": "marketing",
+  "type": "home",
+  "timings": "parttime",
+  "posted": 2,
+  "endsin": 3,
+  "openposition": 10,
+  "totalapplicant": 40,
+  "skills": [
+    "Photoshop",
+    "AfterEffects",
+    "Blender",
+    "adobe"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "6498346649164690d7427ec3"
+  },
+  "id": 2,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "Social media marketing Intern",
+  "department": "Marketing",
+  "duration": 3,
+  "experience": "Intermediate",
+  "stipend": "20,000-30,000",
+  "stipends": 20000,
+  "location": "kolkata",
+  "timings": "fulltime",
+  "posted": 9,
+  "endsin": 3,
+  "category": "marketing",
+  "type": "office",
+  "openposition": 10,
+  "totalapplicant": 100,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "649834b449164690d7427ec6"
+  },
+  "id": 3,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "Software Developer Intern",
+  "department": "IT services",
+  "duration": 4,
+  "experience": "Intermediate",
+  "stipend": "5000-10,000",
+  "stipends": 10000,
+  "timings": "parttime",
+  "location": "noida",
+  "category": "sales",
+  "type": "home",
+  "posted": 1,
+  "endsin": 3,
+  "openposition": 10,
+  "totalapplicant": 120,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "649834ce49164690d7427ec8"
+  },
+  "id": 4,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "ReactJs Intern",
+  "department": "IT services",
+  "duration": 4,
+  "experience": "Intermediate",
+  "stipend": "5000-10,000",
+  "stipends": 10000,
+  "timings": "parttime",
+  "location": "noida",
+  "category": "frontend",
+  "type": "home",
+  "posted": 10,
+  "endsin": 3,
+  "openposition": 10,
+  "totalapplicant": 120,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "649834e249164690d7427eca"
+  },
+  "id": 5,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "frontend Intern",
+  "department": "IT services",
+  "duration": 3,
+  "experience": "Intermediate",
+  "stipend": "20,000-30,000",
+  "stipends": 20000,
+  "location": "kolkata",
+  "timings": "fulltime",
+  "posted": 9,
+  "endsin": 3,
+  "category": "frontend",
+  "type": "office",
+  "openposition": 10,
+  "totalapplicant": 100,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "6498350049164690d7427ecc"
+  },
+  "id": 6,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "Software Developer Intern",
+  "department": "IT services",
+  "duration": 4,
+  "experience": "Intermediate",
+  "stipend": "5000-10,000",
+  "stipends": 10000,
+  "timings": "parttime",
+  "location": "noida",
+  "category": "fullstack",
+  "type": "home",
+  "posted": 1,
+  "endsin": 3,
+  "openposition": 10,
+  "totalapplicant": 120,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+},{
+  "_id": {
+    "$oid": "6498351b49164690d7427ece"
+  },
+  "id": 7,
+  "brand":"/images/brand1.png",
+  "company": "Tata Consultancy Services Pvt Ltd",
+  "position": "Software Developer Intern",
+  "department": "IT services",
+  "duration": 3,
+  "experience": "Intermediate",
+  "stipend": "10,000",
+  "stipends": 10000,
+  "location": "kolkata",
+  "timings": "fulltime",
+  "posted": 9,
+  "endsin": 3,
+  "category": "fullstack",
+  "type": "office",
+  "openposition": 10,
+  "totalapplicant": 40,
+  "skills": [
+    "Javascript",
+    "ReactJs",
+    "ExpressJs",
+    "MongoDB",
+    "Clean architecture",
+    "Clean architecture"
+  ],
+  "about": "We are a mobile and web development company. We're a professional, individualistic one-stop shop providing strategic brand consulting, experience and customer journey design, mobile app design and development, website and software development, and just about everything else which has to do anything with digital technology.",
+  "requirements": [
+    "Someone who can work in a fast-paced startup environment",
+    "Good understanding of ReactJs, HTML, SCSS (styling is important), Javascript",
+    "Good communication is a must-have for this role",
+    "Hardworking & Curious to learn/implement new things is what I prefer personally"
+  ],
+  "responsibilities": [
+    "Write clean, manageable code and follow standard coding practices",
+    "Write quality code with a clean UI/UX view",
+    "Work with the tech & non-tech teams to create a meaningful product for users",
+    "Capable to build a feature, testing, and deploying a feature on the production server"
+  ]
+}]
