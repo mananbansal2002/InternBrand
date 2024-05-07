@@ -10,7 +10,7 @@ export const getAllJobPostings = async (req, res) => {
         const collection = db.collection('posts');
 
         // Query the collection to retrieve all job postings
-        const jobPostings = await collection.find().toArray();
+        const jobPostings = await collection.find().fetch();
 
         // Respond with the retrieved job postings
         res.status(200).json(jobPostings);
