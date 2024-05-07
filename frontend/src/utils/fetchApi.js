@@ -1,6 +1,6 @@
 import axios from 'axios';
 axios.defaults.withCredentials=false;
-const url = 'http://localhost:8800/api'
+const url = 'https://internbrand-ekq2.onrender.com/'
 
 export const getDatas= async () => {
     return await axios.get(`${url}/getPosts`).catch((err)=>console.log(err));
