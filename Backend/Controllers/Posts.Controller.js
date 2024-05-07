@@ -8,7 +8,9 @@ export const getAllJobPostings = async (req, res) => {
 
         // Access the "posts" collection directly
         const collection = db.collection('posts');
-
+  if (!collection || typeof collection.find !== 'function') {
+            throw new Error("Collection 'posts' not found or invalid");
+        }
         // Query the collection to retrieve all job postings
         const jobPostings = await collection.find().toArray();
 
