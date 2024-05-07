@@ -26,6 +26,13 @@ To set up the project locally, follow these steps:
 4. Start the backend server: `npm start`
 5. Start the frontend: `cd frontend && npm start`
 
+
+
 ## Demo
 - **Backend**: [Link to backend deployment]( https://internbrand-ekq2.onrender.com/api/getPosts)
 - **Frontend**: [Link to live demo](https://internbrand.netlify.app/)
+
+## Screeenshots
+
+![image](https://github.com/mananbansal2002/InternBrand/assets/71920970/7497ce8a-d33c-4ce2-b220-b4186f964583)
+![image](https://github.com/mananbansal2002/InternBrand/assets/71920970/44234d4d-dc23-48c5-ae6c-aaf1670b7566)
